@@ -42,3 +42,7 @@ INTERNAL://BLANK
 The esp_init_data_default.bin file(for 26MHz crystal):
 
 INTERNAL://DEFAULT
+
+License
+---------------
+This project is released under the MIT License. See [LICENSE](LICENSE) for details.
